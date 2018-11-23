@@ -1,6 +1,7 @@
-## Your Name
+## Beatrice Courage
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am about to start at Makers Academy, a 12 week bootcamp teaching the fundamentals of coding. I have completed a Master's degree in Astrophysics and Physical Chemistry at UCL, and since completing my degree, I have worked as a healthcare assistant in a forensic psychiatric hospital.  
+After graduating, I hope to become a software developer, and I believe that I have the drive and sensitivity to make a success of it.  
 
 ## Skills
 
