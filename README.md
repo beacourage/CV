@@ -5,47 +5,30 @@ After graduating, I hope to become a software developer, and I believe that I ha
 
 ## Skills
 
-#### This Skill
+#### Good Communication Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Whilst working at the psychiatric hospital, I provided direct care to vulnerable and unpredictable patients. This has allowed me to develop strong communication skills.  I also volunteer at a Hospice, where I talk to patients and communicate with them regularly.  
 
-- Experience
-- Achievements
-- Evidence
+#### Fast Learner and Problem Solver
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have always enjoyed learning and I relish in a fast paced learning environment. I believe that my degree in Astrophysics and Physical Chemistry reflects this. I received 85% in The Physics of the Stars, and 78% in Advanced Physical Chemistry, two advanced and complex modules at UCL, and received a Higher Education Achievement Award. I am highly numerical and achieved Silver Awards in three prestigious UK maths challenges.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2018 to Present)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+12 week bootcamp teaching the fundamentals of coding.
 
+Includes:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University College London(Sep. 2013-June 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Astrophysics and Physical Chemistry
+- Masters Degree, 2:1
+- Masters project is entitled ‘Finding cocrystals of non-steroidal anti-inflammatory fenamate drugs.’ This project involves a range of both computational and experimental techniques.
 
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Grade 8 singing and piano
