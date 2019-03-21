@@ -1,9 +1,9 @@
-## Beatrice Courage
+# Beatrice Courage
 
-I have recently completed Makers Academy: a 12 week bootcamp teaching the fundamentals of coding. 
+I have recently completed Makers Academy: a 12 week bootcamp teaching the fundamentals of coding.  
+Prior to Maker's Academy, I worked in a Forensic Psychiatric Hospital and I have completed a Master's degree in Astrophysics and Physical Chemistry at UCL.
+I hope to become a junior software engineer, and I believe that I have the drive and sensitivity to make a success of it.
 
-I have completed a Master's degree in Astrophysics and Physical Chemistry at UCL, and since completing my degree, I have worked as a healthcare assistant in a forensic psychiatric hospital.  
-After graduating, I hope to become a software developer, and I believe that I have the drive and sensitivity to make a success of it.  
 
 ## Skills
 
