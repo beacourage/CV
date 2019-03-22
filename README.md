@@ -7,7 +7,7 @@
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Skills and Interests ](#skills)
+[Interests and Awards](#personal interests and awards)
 
 </div>
 
@@ -42,14 +42,13 @@ I have always enjoyed working with others and learning from them, it speeds up m
 
 # Education
 
-### Makers Academy (November 2018 - March 2019)
-- A highly selective 4-months, full-time program, emphasising:
+### Makers Academy (Nov. 2018 - March 2019)
+- A highly selective 4-months, full-time program
 - Test Driven Development, Object-oriented Design, MVC, DDD, Agile/XP, Ruby, Rails, JavaScript, React, RSpec, Jasmine, Karma, Travis CI
 
 ### University College London (Sep. 2013 - Sep. 2017)
 * Master of Science (MSci), Astrophysics and Physical Chemistry, 2:1
 * Modules include: The Physics of Stars (85%), Advanced Physical Chemistry (78%), Physical Cosmology, Astronomical Spectroscopy, Concepts in Computational Chemistry, Astrophysical Processes: Nebulae to stars, Chemical Dynamics
-- Masters project involveD a range of both computational and experimental techniques.
 
 ### St Marys Ascot (Sep. 2006- July 2013)
 - A Levels in Maths, Physics and Chemistry - A*, A,  A
@@ -68,7 +67,7 @@ I have always enjoyed working with others and learning from them, it speeds up m
 - Volunteered weekly in the in-patient unit and the day centre
 
 
-# Personal interest and awards
+# Personal interests and awards
 - Higher Education Achievement Award (HEAR) for most improved student.                                           
 - Member of Royal Society of Chemistry’s outreach initiative: Spectroscopy in a Suitcase, SIAS.                        
 - Good public speaker – Delivered presentations at UCL to students on ‘Single molecule magnets’ and ‘Binding affinities of drug-protein complexes.’
