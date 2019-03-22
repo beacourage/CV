@@ -5,7 +5,7 @@ I hope to become a junior software engineer, and I believe that I have the drive
 
 ## Projects
 
-Please visit my [Github](https://github.com/beacourage)
+For further projects please visit my [Github](https://github.com/beacourage)
 
 | Project        | Description           | Technologies  |
 | ------------- |:-------------:| -----:|
@@ -15,13 +15,11 @@ Please visit my [Github](https://github.com/beacourage)
 | [Chitter Challenge](https://github.com/beacourage/chitter-challenge) | A small Twitter clone allowing users to post messages to a public stream |  Sinatra, Ruby, Rspec, Capybara, Simplecov, Datamapper |
 | [Instagram](https://github.com/beacourage/instagram-challenge)  | An Instagram Clone where users can post pictures, write comments on pictures and like pictures. | Ruby on Rails, RSpec, Capybara, Rubocop |
 
-
 ## Education
 
 #### Makers Academy (November 2018 - March 2019)
 
-"Makers Academy is a highly selective 4-month, full-time program (preceded by a four-week pre-course) which teaches computer programming in London, England. Makers Academy is creating a new generation of tech talent who are skilled and ready for the changing world of work. The academy accepts only exceptional applicants into the course."
-
+A highly selective 4-months, full-time program, emphasising:
 - Test Driven Development
 - Object-oriented Design
 - MVC, DDD
@@ -29,10 +27,9 @@ Please visit my [Github](https://github.com/beacourage)
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Karma,
 
-#### University College London (Sep. 2013 - June 2017)
+#### University College London (Sep. 2013 - Sep. 2017)
 
-- # Astrophysics and Physical Chemistry,
- - MSci (Master in Science), 2:1
+- Master of Science (MSci), Astrophysics and Physical Chemistry, 2:1
 - Modules include: The Physics of Stars (85%), Advanced Physical Chemistry (78%), Physical Cosmology, Astronomical Spectroscopy, Concepts in Computational Chemistry, Astrophysical Processes: Nebulae to stars, Chemical Dynamics
 - Masters project involveD a range of both computational and experimental techniques.
 
@@ -42,12 +39,30 @@ Please visit my [Github](https://github.com/beacourage)
 - AS Level Further Mathematics – A*,
 - GCSE Examinations – 8A*’s, 2A’s
 
-## Skills
+## Experience
 
-#### Good Communication Skills
+#### The North London Clinic – Forensic Psychiatric Hospital  (Nov. 2017-Oct.2018)     
 
-Whilst working at the psychiatric hospital, I provided direct care to vulnerable and unpredictable patients. This has allowed me to develop strong communication skills.  I also volunteer at a Hospice, where I talk to patients and communicate with them regularly.  
+- Healthcare Assistant
+- Provided direct care to vulnerable and unpredictable patients.
+- Conducted level one and level two observations, noting mental state, activity and behavior at regular intervals.
+- Update patient care plans, write progress notes, supervise family visits, escort patients on ground leave.
+- Worked with a multidisciplinary team in a varied and fast-paced environment.
 
-#### Fast Learner and Problem Solver
+#### St John's Hospice  (Oct. 2017-Oct.2018)
 
-I have always enjoyed learning and I relish in a fast paced learning environment. I believe that my degree in Astrophysics and Physical Chemistry reflects this. I received 85% in The Physics of the Stars, and 78% in Advanced Physical Chemistry, two advanced and complex modules at UCL, and received a Higher Education Achievement Award. I am highly numerical and achieved Silver Awards in three prestigious UK maths challenges.
+- Volunteered weekly in the in-patient unit and the day centre
+
+## Skills, personal interest, awards
+
+- Fast Learner and Problem Solver:
+    I have always enjoyed learning and I relish in a fast paced learning environment. I believe that my degree in Astrophysics and Physical Chemistry reflects this. I received 85% in The Physics of the Stars, and 78% in Advanced Physical Chemistry, two advanced and complex modules at UCL, and received a Higher Education Achievement Award. I am highly numerical and achieved Silver Awards in three prestigious UK maths challenges. Furthermore, the intensive nature of the Maker's experience ensures you graduate a fast learner.
+- Very strong Communication Skills:
+    I have always enjoyed working with others and learning from them, it speeds up my development and adds an element of fun that would not be there if I was always working in isolation. I definitely believe that two brains are more powerful then one, and there is always so much you can learn from another person regardless of their ability.  I believe that I am a very outgoing and positive person and I love forming connections and seeing the best in others.  Working with and talking to people is my number one passion and I was pleasantly surprised to find that coding is probably one of the most collaborative activities out there.
+- Higher Education Achievement Award (HEAR) for most improved student.                                           
+- Member of Royal Society of Chemistry’s outreach initiative: Spectroscopy in a Suitcase, SIAS.                        
+- Good public speaker – Delivered presentations at UCL to students on ‘Single molecule magnets’ and ‘Binding affinities of drug-protein complexes.’
+- Keen actress – Have appeared in many plays throughout both school and first year of UCL.                           
+- Good musician – Associated board of music grade 8 in both singing and piano.
+- Highly numerical – Silver awards in three prestigious UK maths challenges.                                            2011-2012
+-	Strong leadership skills – Senior prefect and school council leader at St Marys.                                        
