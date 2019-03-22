@@ -44,28 +44,28 @@ I have always enjoyed working with others and learning from them, it speeds up m
 
 # Education
 
-### Makers Academy ####(Nov. 2018 - March 2019)
+### Makers Academy (Nov. 2018 - March 2019)
 - A highly selective 4-months, full-time program
 - Test Driven Development, Object-oriented Design, MVC, DDD, Agile/XP, Ruby, Rails, JavaScript, React, RSpec, Jasmine, Karma, Travis CI
 
-### University College London ####(Sep. 2013 - Sep. 2017)
+### University College London (Sep. 2013 - Sep. 2017)
 * Master of Science (MSci), Astrophysics and Physical Chemistry, 2:1
 * Modules include: The Physics of Stars (85%), Advanced Physical Chemistry (78%), Physical Cosmology, Astronomical Spectroscopy, Concepts in Computational Chemistry, Astrophysical Processes: Nebulae to stars, Chemical Dynamics
 
-### St Marys Ascot ####(Sep. 2006- July 2013)
+### St Marys Ascot (Sep. 2006- July 2013)
 - A Levels in Maths, Physics and Chemistry - A*, A,  A
 - AS Level Further Mathematics – A*,
 - GCSE Examinations – 8A*’s, 2A’s
 
 # Experience
 
-### Healthcare Assistant – Forensic Psychiatric Hospital  ####(Nov. 2017-Oct.2018)     
+### Healthcare Assistant – Forensic Psychiatric Hospital  (Nov. 2017-Oct.2018)     
 - Provided direct care to vulnerable and unpredictable patients.
 - Conducted level one and level two observations, noting mental state, activity and behavior at regular intervals.
 - Update patient care plans, write progress notes, supervise family visits, escort patients on ground leave.
 - Worked with a multidisciplinary team in a varied and fast-paced environment.
 
-### Volunteer - St John's Hospice  ####(Oct. 2017-Oct.2018)
+### Volunteer - St John's Hospice  (Oct. 2017-Oct.2018)
 - Volunteered weekly in the in-patient unit and the day centre
 
 
