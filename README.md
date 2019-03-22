@@ -1,9 +1,33 @@
-# Beatrice Courage
+<h1 align="center">B E A T R I C E    C O U R A G E</h1>
+
+<div align="center">
+
+[Background ](#background) |
+[Projects ](#projects) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Skills and Interests ](# Skills, personal interest, awards) |
+
+</div>
+
+# Background
 
 I have recently completed Makers Academy: a 12 week bootcamp teaching the fundamentals of coding.  Prior to Maker's Academy, I worked in a Forensic Psychiatric Hospital and I have completed a Master's degree in Astrophysics and Physical Chemistry at UCL.
 I hope to become a junior software engineer, and I believe that I have the drive and sensitivity to make a success of it.
 
-## Education
+# Projects
+
+For further projects please visit my [Github](https://github.com/beacourage)
+
+| Title       | Description           | Technologies  |
+|--|--|--|
+| [Acebook](https://github.com/beacourage/acebook--Team-Acebook-and-Chill)  | A social media platform with a likeness of Facebook. |  Ruby on Rails, RSpec, Capybara, Rubocop, Simplecov |
+| [tapNrun](https://github.com/beacourage/tapNrun) | A sports based game created for my Makers Academy final project. | Javascript, HTML5 Canvas, Travis CI, Jasmine, Karma, Trello |
+| [Bank Technical Challenge](https://github.com/beacourage/Bank_tech_test) | A simple Ruby command line challenge. | Ruby, RSpec |
+| [Chitter Challenge](https://github.com/beacourage/chitter-challenge) | A small Twitter clone allowing users to post messages to a public stream |  Sinatra, Ruby, Rspec, Capybara, Simplecov, Datamapper |
+| [Instagram](https://github.com/beacourage/instagram-challenge)  | An Instagram Clone where users can post pictures, write comments on pictures and like pictures. | Ruby on Rails, RSpec, Capybara, Rubocop |
+
+# Education
 
 #### Makers Academy (November 2018 - March 2019)
 A highly selective 4-months, full-time program, emphasising:
@@ -19,7 +43,7 @@ A highly selective 4-months, full-time program, emphasising:
 - AS Level Further Mathematics – A*,
 - GCSE Examinations – 8A*’s, 2A’s
 
-## Experience
+# Experience
 
 #### Healthcare Assistant – Forensic Psychiatric Hospital  (Nov. 2017-Oct.2018)     
 - Provided direct care to vulnerable and unpredictable patients.
@@ -30,20 +54,8 @@ A highly selective 4-months, full-time program, emphasising:
 #### Volunteer - St John's Hospice  (Oct. 2017-Oct.2018)
 - Volunteered weekly in the in-patient unit and the day centre
 
-## Projects
 
-For further projects please visit my [Github](https://github.com/beacourage)
-
-| Project        | Description           | Technologies  |
-| ------------- |:-------------:| -----:|
-| [Acebook](https://github.com/beacourage/acebook--Team-Acebook-and-Chill)  | A social media platform with a likeness of Facebook. |  Ruby on Rails, RSpec, Capybara, Rubocop, Simplecov |
-| [tapNrun](https://github.com/beacourage/tapNrun) | A sports based game created for my Makers Academy final project. | Javascript, HTML5 Canvas, Travis CI, Jasmine, Karma, Trello |
-| [Bank Technical Challenge](https://github.com/beacourage/Bank_tech_test) | A simple Ruby command line challenge. | Ruby, RSpec |
-| [Chitter Challenge](https://github.com/beacourage/chitter-challenge) | A small Twitter clone allowing users to post messages to a public stream |  Sinatra, Ruby, Rspec, Capybara, Simplecov, Datamapper |
-| [Instagram](https://github.com/beacourage/instagram-challenge)  | An Instagram Clone where users can post pictures, write comments on pictures and like pictures. | Ruby on Rails, RSpec, Capybara, Rubocop |
-
-
-## Skills, personal interest, awards
+# Skills, personal interest, awards
 - Fast Learner and Problem Solver:
     I have always enjoyed learning and I relish in a fast paced learning environment. I believe that my degree in Astrophysics and Physical Chemistry reflects this. I received 85% in The Physics of the Stars, and 78% in Advanced Physical Chemistry, two advanced and complex modules at UCL, and received a Higher Education Achievement Award. I am highly numerical and achieved Silver Awards in three prestigious UK maths challenges. Furthermore, the intensive nature of the Maker's experience ensures you graduate a fast learner.
 - Very strong Communication Skills:
