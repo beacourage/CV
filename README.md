@@ -31,7 +31,8 @@ Please visit my [Github](https://github.com/beacourage)
 
 #### University College London (Sep. 2013 - June 2017)
 
-- **!!!ASTROPHYSICS AND PHYSICAL CHEMISTRY!!!**, MSci (Master in Science), 2:1
+- # Astrophysics and Physical Chemistry,
+ - MSci (Master in Science), 2:1
 - Modules include: The Physics of Stars (85%), Advanced Physical Chemistry (78%), Physical Cosmology, Astronomical Spectroscopy, Concepts in Computational Chemistry, Astrophysical Processes: Nebulae to stars, Chemical Dynamics
 - Masters project involveD a range of both computational and experimental techniques.
 
