@@ -9,7 +9,7 @@
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Interests and Awards](#personal interests)
+[Interests and Awards](#personal)
 
 </div>
 
