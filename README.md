@@ -30,12 +30,12 @@ For further projects please visit my [Github](https://github.com/beacourage)
 # Education
 
 #### Makers Academy (November 2018 - March 2019)
-A highly selective 4-months, full-time program, emphasising:
+- A highly selective 4-months, full-time program, emphasising:
 - Test Driven Development, Object-oriented Design, MVC, DDD, Agile/XP, Ruby, Rails, JavaScript, React, RSpec, Jasmine, Karma, Travis CI
 
 #### University College London (Sep. 2013 - Sep. 2017)
-- Master of Science (MSci), Astrophysics and Physical Chemistry, 2:1
-- Modules include: The Physics of Stars (85%), Advanced Physical Chemistry (78%), Physical Cosmology, Astronomical Spectroscopy, Concepts in Computational Chemistry, Astrophysical Processes: Nebulae to stars, Chemical Dynamics
+* Master of Science (MSci), Astrophysics and Physical Chemistry, 2:1
+* Modules include: The Physics of Stars (85%), Advanced Physical Chemistry (78%), Physical Cosmology, Astronomical Spectroscopy, Concepts in Computational Chemistry, Astrophysical Processes: Nebulae to stars, Chemical Dynamics
 - Masters project involveD a range of both computational and experimental techniques.
 
 #### St Marys Ascot (Sep. 2006- July 2013)
