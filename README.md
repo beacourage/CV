@@ -9,11 +9,6 @@
 [Skills and Interests ](#skills)
 
 </div>
-<div align="center">
-
-![Screenshot](pic.png)
-
-</div>
 
 # Background
 
