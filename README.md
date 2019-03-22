@@ -14,6 +14,7 @@
 ![Screenshot](pic.png)
 
 </div>
+
 # Background
 
 I have recently completed Makers Academy: a 12 week bootcamp teaching the fundamentals of coding.  Prior to Maker's Academy, I worked in a Forensic Psychiatric Hospital and I have completed a Master's degree in Astrophysics and Physical Chemistry at UCL.
