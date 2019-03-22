@@ -1,4 +1,4 @@
-<h1 align="center">B E A T R I C E  *  C O U R A G E</h1>
+<h1 align="center">B E A T R I C E  - C O U R A G E</h1>
 
 
 <div align="center">
