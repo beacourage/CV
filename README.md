@@ -1,13 +1,15 @@
 <h1 align="center">*B E A T R I C E  *  C O U R A G E*</h1>
 
+
 <div align="center">
+
 
 [Background ](#background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
-[Interests and Awards](#personal interests and awards)
+[Interests and Awards](#personal interests)
 
 </div>
 
