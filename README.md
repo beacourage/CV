@@ -10,8 +10,12 @@ Please visit my [Github](https://github.com/beacourage)
 
 | Project        | Description           | Technologies  |
 | ------------- |:-------------:| -----:|
-| [tapNrun](https://github.com/beacourage/tapNrun)      | A sports based game created for my Makers Academy final project. | Javascript, HTML5 Canvas, Travis CI, Jasmine, Karma, Trello |
-| [Instagram](https://github.com/beacourage/instagram-challenge)  | An Instagram Clone where users can post pictures, write comments on pictures and like pictures. |  Ruby on Rails, RSpec, Capybara, Rubocop,|
+| [tapNrun](https://github.com/beacourage/tapNrun) | A sports based game created for my Makers Academy final project. | Javascript, HTML5 Canvas, Travis CI, Jasmine, Karma, Trello |
+| [Acebook](https://github.com/beacourage/acebook--Team-Acebook-and-Chill)  | A social media platform with a likeness of Facebook. |  Ruby on Rails, RSpec, Capybara, Rubocop, Simplecov |
+| [Bank Technical Challenge](https://github.com/beacourage/Bank_tech_test) | A simple Ruby command line challenge. | Ruby, RSpec |
+| [Chitter Challenge](https://github.com/beacourage/chitter-challenge) | A small Twitter clone allowing users to post messages to a public stream |  Sinatra, Ruby, Rspec, Capybara, Simplecov, Datamapper |
+| [Instagram](https://github.com/beacourage/instagram-challenge)  | An Instagram Clone where users can post pictures, write comments on pictures and like pictures. | Ruby on Rails, RSpec, Capybara, Rubocop |
+
 
 ## Education
 
